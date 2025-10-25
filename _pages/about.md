@@ -32,4 +32,4 @@ Previously, I earned my bachelor’s degree in Mechanical Engineering from both 
 
 If you find my project interest and want to cooperate with me, please email me at haorany8 [at]seas[dot]upenn[dot]edu
 
-[CV](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto)/[google scholar](https://scholar.google.com/citations?hl=en&user=DMu6e9MAAAAJ)/[Link](https://www.linkedin.com/in/haoran-yang-2399552b5/)
+[CV]([https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto](https://drive.google.com/file/d/11HymzBxmmg15X79L4O5cj4BvyUSqMq6k/view?usp=sharing))/[google scholar](https://scholar.google.com/citations?hl=en&user=DMu6e9MAAAAJ)/[Link](https://www.linkedin.com/in/haoran-yang-2399552b5/)
