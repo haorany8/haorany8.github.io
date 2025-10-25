@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-push-anything-is-up-on-arxiv-the-link-is-https-arxiv-org-pdf-2510-19974-and-the-project-website-is-https-dairlab-github-io-push-anything",
-          title: 'Our paper Push Anything is up on Arxiv! The link is https://arxiv.org/pdf/2510.19974, and...',
+            },},{id: "news-our-paper-push-anything-is-up-on-arxiv-the-link-is-https-arxiv-org-pdf-2510-19974",
+          title: 'Our paper Push Anything is up on Arxiv! The link is https://arxiv.org/pdf/2510.19974',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
