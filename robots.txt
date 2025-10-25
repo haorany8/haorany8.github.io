@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://haorany8.github.io/sitemap.xml
