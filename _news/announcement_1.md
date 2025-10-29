@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper Push Anything is up on Arxiv! The link is (https://arxiv.org/pdf/2510.19974), and the project website is (https://dairlab.github.io/push-anything/)
+Our paper Push Anything is up on Arxiv! The link is <https://arxiv.org/pdf/2510.19974>, and the project website is <https://dairlab.github.io/push-anything/>
